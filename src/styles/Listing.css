@@ -1,0 +1,15 @@
+.container {    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;    
+    color: blue
+
+
+}
+
+#kopfzeile {
+color: black;
+text-align: center;
+}
+
+
